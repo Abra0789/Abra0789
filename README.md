@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Abrar Galib</h1>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/564x/fa/7e/6e/fa7e6e04b27bb2cfb7670a24eb743be9.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abra0789&label=Profile%20views&color=0e75b6&style=flat" alt="abra0789" /> </p>
 
 - 📫 How to reach me **21101051@uap-bd.edu**
