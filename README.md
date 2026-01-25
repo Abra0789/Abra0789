@@ -23,66 +23,60 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 ### ⚙️ Tech Stack
 
-<p align="left">
-  <!-- Languages -->
-  <a href="#" title="C"><img src="https://skillicons.dev/icons?i=c" height="40" style="margin:5px"/></a>
-  <a href="#" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin:5px"/></a>
-  <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java" height="40" style="margin:5px"/></a>
-  <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" style="margin:5px"/></a>
-  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" style="margin:5px"/></a>
-  <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" height="40" style="margin:5px"/></a>
-  <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" height="40" style="margin:5px"/></a>
-  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin:5px"/></a>
-
-  <!-- Frameworks -->
-  <a href="#" title="Django"><img src="https://skillicons.dev/icons?i=django" height="40" style="margin:5px"/></a>
-  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin:5px"/></a>
-
-  <!-- Tools -->
-  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin:5px"/></a>
-  <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin:5px"/></a>
-  <a href="#" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm" height="40" style="margin:5px"/></a>
-  <a href="#" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="40" style="margin:5px"/></a>
-  <a href="#" title="Google Colab"><img src="https://skillicons.dev/icons?i=googlecolab" height="40" style="margin:5px"/></a>
-
-  <!-- Operating Systems -->
-  <a href="#" title="Windows"><img src="https://skillicons.dev/icons?i=windows" height="40" style="margin:5px"/></a>
-  <a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" style="margin:5px"/></a>
-</p>
 
 ### Tech Stack
-- **Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript
-- **Frameworks:** Django, Bootstrap
-- **Tools:** GitHub, VS Code, PyCharm, Arduino, Google Colab
-- **Operating Systems:** Windows, Linux
+
+## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
+
+<div style="display:flex; align-items:flex-start; justify-content:space-between;">
+
+<!-- LEFT SIDE SKILLS -->
+<div>
+
+### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql&theme=dark" height="30"/>
+  <br/>
+  <span style="color:#FFD700; font-weight:bold;">C</span> • 
+  <span style="color:#FFD700; font-weight:bold;">C++</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Python</span> • 
+  <span style="color:#FFD700; font-weight:bold;">JavaScript</span> • 
+  <span style="color:#FFD700; font-weight:bold;">MySQL</span>
+</p>
+
+### 🌐 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Web Technologies</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="30"/>
+  <br/>
+  <span style="color:#FFD700; font-weight:bold;">HTML</span> • 
+  <span style="color:#FFD700; font-weight:bold;">CSS</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Bootstrap</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Django</span>
+</p>
+
+### 🤖 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Machine Learning</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="30"/>
+  <br/>
+  <span style="color:#FFD700; font-weight:bold;">Machine Learning</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Data Analysis</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Model Training</span>
+</p>
+
+### 🛠️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Tools</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab&theme=dark" height="30"/>
+  <br/>
+  <span style="color:#FFD700; font-weight:bold;">Git & GitHub</span> • 
+  <span style="color:#FFD700; font-weight:bold;">VS Code</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Linux</span> • 
+  <span style="color:#FFD700; font-weight:bold;">Google Colab</span>
+</p>
+
+</div>
+
 
   <hr/>
-
-## 📊 PLAYER STATS & TECH STACK
-
-<p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" 
-       style="border-radius:20px; height:120px; margin-right:10px;" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" 
-       style="border-radius:20px; height:120px;" />
-</p>
-
-<p align="center">
-  💻 <strong>Languages:</strong> C • C++ • Python • JavaScript • MySQL<br/>
-  🌐 <strong>Web:</strong> HTML • CSS • Bootstrap • Django<br/>
-  🤖 <strong>Machine Learning:</strong> ML • Data Analysis • Model Training<br/>
-  🛠️ <strong>Tools:</strong> Git & GitHub • VS Code • Linux • Google Colab
-</p>
-
-<p align="center">
-  My GitHub contributions, favorite languages, and tech stack at a glance.
-</p>
-
-<hr/>
-
 
 ### 🏆 Highlights
 - 🎓 B.Sc. in CSE from **University of Asia Pacific** (CGPA 3.30/4.00)
