@@ -5,18 +5,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME+TO+THE+CYBER+ZONE;ABRAR+GALIB" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=FF2CDF&center=true&vCenter=true&width=700&lines=Cyberpunk+%7C+Gamer+Pixel+%7C+Code+Runner;Eat+Sleep+Code+Repeat" />
+  <img src="" />
 </p>
 
 <hr/>
 
 <!-- ================= ABOUT ================= -->
 ## 🕹️ ABOUT ME
-<img align="right" width="280" src="https://i.imgflip.com/4t0m5.jpg" style="border-radius:20px;" />
+<img align="right" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
 
 - ⚡ **Leveling up in Programming & Problem Solving**
 - 🧠 **Core Stack:** `C` • `C++` • `Python` • `Web`
