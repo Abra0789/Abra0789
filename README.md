@@ -1,6 +1,7 @@
 <!-- ================= CYBERPUNK PIXEL HEADER ================= -->
 <p align="center">
-  <img src="https://cutewallpaper.org/26/best-gif-action-wallpaper/pin-by-michaela-colyer-on-gif-cool-pixel-art-pixel-art-background-anime-pixel-art.gif" />
+  <img src="https://cutewallpaper.org/26/best-gif-action-wallpaper/pin-by-michaela-colyer-on-gif-cool-pixel-art-pixel-art-background-anime-pixel-art.gif" 
+       style="border-radius:20px;" />
 </p>
 
 <h1 align="center">
@@ -15,27 +16,29 @@
 
 <!-- ================= ABOUT ================= -->
 ## 🕹️ ABOUT ME
-<img align="right" width="300" src="https://i.imgflip.com/4t0m5.jpg" />
+<img align="right" width="280" src="https://i.imgflip.com/4t0m5.jpg" style="border-radius:20px;" />
 
-- ⚡ **Grinding programming skills**
-- 🧠 **Main stats:** `C` | `Python` | `Web`
-- 🧩 **Quest:** Master DSA & problem solving
-- 🎮 **Mode:** Hardcore learner
-- 🐣 **Fun Fact:** Still a noob, but leveling up fast
+- ⚡ **Leveling up in Programming & Problem Solving**
+- 🧠 **Core Stack:** `C` • `C++` • `Python` • `Web`
+- 🎯 **Current Quest:** Master DSA & Competitive Programming
+- 🎮 **Playstyle:** Hardcore Learner, Fast Adapter
+- 🐣 **Fun Fact:** Started as a noob — grinding to become a boss
 
----
+> 💡 _“Every commit is XP. Every bug is a boss fight.”_
+
+<hr/>
 
 <!-- ================= CONNECT ================= -->
 ## 🌐 JACK IN WITH ME
 <p align="left">
   <a href="https://github.com/abra0789">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" style="border-radius:10px;"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" style="border-radius:10px;"/>
   </a>
   <a href="https://instagram.com/ag.saad.9">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FF2CDF?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-FF2CDF?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px;"/>
   </a>
 </p>
 
@@ -43,28 +46,32 @@
 
 <!-- ================= SKILLS ================= -->
 ## 🧪 SKILL INVENTORY
+
+### ⚙️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 </p>
 
+### 🌐 Web Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 </p>
 
-<img align="left" width="260" src="https://i.imgflip.com/7zj2d8.jpg" />
-
-<br/><br/><br/><br/><br/><br/>
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 <hr/>
 
-<!-- ================= STATS ================= -->
+<!-- ================= PLAYER STATS ================= -->
 ## 📊 PLAYER STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" style="border-radius:20px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" style="border-radius:20px;" />
 </p>
 
 <hr/>
@@ -72,15 +79,23 @@
 <!-- ================= STREAK ================= -->
 ## 🔥 COMBO STREAK
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" style="border-radius:20px;" />
 </p>
 
 <hr/>
 
-<!-- ================= GRAPH ================= -->
+<!-- ================= XP GRAPH ================= -->
 ## 📈 XP PROGRESSION
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF2CDF&point=FFD700&hide_border=true" style="border-radius:20px;" />
+</p>
+
+<hr/>
+
+<!-- ================= SNAKE ================= -->
+## 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://github.com/abra0789/abra0789/blob/output/github-contribution-grid-snake.svg" alt="snake animation" style="border-radius:20px;" />
 </p>
 
 <hr/>
