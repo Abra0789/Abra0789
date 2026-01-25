@@ -62,26 +62,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= SKILLS ================= -->
-## 🧪 SKILL INVENTORY
-
-### ⚙️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
-</p>
-
-### 🌐 Web Tech
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
-<hr/>
-
-
 
 ## 🧪 SKILL INVENTORY
 
@@ -117,6 +97,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
   <b>Git/GitHub</b> • <b>VS Code</b> • <b>Linux</b> • <b>Google Colab</b> • <b>Arduino</b>
 </p>
 
+</hr>
 
 
 <!-- ================= PLAYER STATS ================= -->
