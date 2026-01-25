@@ -125,7 +125,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 
 <!-- ================= STREAK ================= -->
-## COMBO STREAK
+## 🔥 COMBO STREAK
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" style="border-radius:20px;" />
 </p>
