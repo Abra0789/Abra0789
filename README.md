@@ -21,6 +21,21 @@
 A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
 **Web Development and Machine Learning**.
 
+### 🏆 Highlights
+- 🎓 B.Sc. in CSE from **University of Asia Pacific** (CGPA 3.30/4.00)
+- 👑 Former **President, Robotics Club (CSE-UAP)**
+- 🏅 Recognized in Programming Contests, CTFs, and Robotics Idea Competitions
+- 📚 Currently pursuing **MERN Stack Development** at **Creative IT**
+
+
+### 📌 Current Focus
+-  Web Development & Full-Stack Projects
+-  Enjoy solving problems and exploring emerging technologies
+
+
+> 💡 _“Every commit is XP. Every bug is a boss fight.”_
+
+
 ### ⚙️ Tech Stack
 <div>
 
@@ -69,22 +84,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
   <hr/>
 
-### 🏆 Highlights
-- 🎓 B.Sc. in CSE from **University of Asia Pacific** (CGPA 3.30/4.00)
-- 👑 Former **President, Robotics Club (CSE-UAP)**
-- 🏅 Recognized in Programming Contests, CTFs, and Robotics Idea Competitions
-- 📚 Currently pursuing **MERN Stack Development** at **Creative IT**
-
-
-### 📌 Current Focus
--  Web Development & Full-Stack Projects
--  Enjoy solving problems and exploring emerging technologies
-
-
-> 💡 _“Every commit is XP. Every bug is a boss fight.”_
-
-
-<hr/>
 
 <!-- ================= CONNECT ================= -->
 ## JACK IN WITH ME
