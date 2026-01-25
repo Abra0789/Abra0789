@@ -1,154 +1,96 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CYBERPUNK PIXEL HEADER ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="90%" />
+  <img src="https://cutewallpaper.org/26/best-gif-action-wallpaper/pin-by-michaela-colyer-on-gif-cool-pixel-art-pixel-art-background-anime-pixel-art.gif" />
 </p>
 
-<h2 align="center">👋 Hello, &lt;Coder/&gt;</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME+TO+THE+CYBER+ZONE;ABRAR+GALIB" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=58A6FF&center=true&vCenter=true&width=520&lines=Code+•+Learn+•+Improve;Welcome+to+my+GitHub+Profile;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abra0789&label=Profile+Views&color=58A6FF&style=flat-square"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=FF2CDF&center=true&vCenter=true&width=700&lines=Cyberpunk+%7C+Gamer+Pixel+%7C+Code+Runner;Eat+Sleep+Code+Repeat" />
 </p>
 
 <hr/>
 
 <!-- ================= ABOUT ================= -->
-<details open>
-<summary><h2>🧑‍💻 About Me</h2></summary>
+## 🕹️ ABOUT ME
+<img align="right" width="300" src="https://i.imgflip.com/4t0m5.jpg" />
 
-<br/>
+- ⚡ **Grinding programming skills**
+- 🧠 **Main stats:** `C` | `Python` | `Web`
+- 🧩 **Quest:** Master DSA & problem solving
+- 🎮 **Mode:** Hardcore learner
+- 🐣 **Fun Fact:** Still a noob, but leveling up fast
 
-<p align="center">
-  <img src="https://i.imgflip.com/4/4t0m5.jpg" width="180"
-       style="border-radius:50%; border:4px solid #58A6FF;" />
-</p>
-
-- 🚀 Improving my **Programming Skills**
-- 🌱 Currently learning **DSA & Problem Solving**
-- 🔍 Open to **C & Python collaboration**
-- 🧠 Ask me about **C Programming & Basics**
-- ⚡ Fun fact: *Every expert was once a beginner*
-
-</details>
-
-<hr/>
+---
 
 <!-- ================= CONNECT ================= -->
-<details>
-<summary><h2>🌐 Connect With Me</h2></summary>
-
-<br/>
-
-<p align="center">
+## 🌐 JACK IN WITH ME
+<p align="left">
   <a href="https://github.com/abra0789">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/ag.saad.9">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-FF2CDF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-</details>
 
 <hr/>
 
 <!-- ================= SKILLS ================= -->
-<details open>
-<summary><h2>🛠️ Languages & Tools</h2></summary>
-
-<br/>
-
+## 🧪 SKILL INVENTORY
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
-</details>
+<img align="left" width="260" src="https://i.imgflip.com/7zj2d8.jpg" />
 
-<hr/>
-
-<!-- ================= CURRENT FOCUS ================= -->
-<details>
-<summary><h2>🎯 Current Focus</h2></summary>
-
-- 📘 Data Structures & Algorithms  
-- 🧩 Problem Solving Practice  
-- 🧪 Writing clean & readable code  
-- 📈 Improving GitHub consistency  
-
-</details>
+<br/><br/><br/><br/><br/><br/>
 
 <hr/>
 
 <!-- ================= STATS ================= -->
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<br/>
-
+## 📊 PLAYER STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
 </p>
-
-</details>
 
 <hr/>
 
 <!-- ================= STREAK ================= -->
-<details>
-<summary><h2>🔥 GitHub Streak</h2></summary>
-
-<br/>
-
+## 🔥 COMBO STREAK
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" />
 </p>
-
-</details>
-
-<hr/>
-
-<!-- ================= TROPHIES ================= -->
-<details>
-<summary><h2>🏆 GitHub Achievements</h2></summary>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abra0789&theme=darkhub&row=1&margin-w=15"/>
-</p>
-
-</details>
 
 <hr/>
 
 <!-- ================= GRAPH ================= -->
-<details>
-<summary><h2>📈 Contribution Graph</h2></summary>
-
-<br/>
-
+## 📈 XP PROGRESSION
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=tokyo-night" />
 </p>
-
-</details>
 
 <hr/>
 
 <p align="center">
-  <b>⚡ Code • Learn • Improve ⚡</b>
+  <img src="https://komarev.com/ghpvc/?username=abra0789&style=flat-square&color=FF2CDF" />
+</p>
+
+<p align="center">
+  <b>🎮 <span style="color:#00FFF7">INSERT COIN</span> • 
+  <span style="color:#FFD700">PLAY</span> • 
+  <span style="color:#FF2CDF">CODE</span> 🎮</b>
 </p>
