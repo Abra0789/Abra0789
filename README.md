@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK PIXEL HEADER ================= -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" 
-       style="border-radius:30px;" width="600"/>
+       style="border-radius:30px;"/>
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=FF2CDF&center=true&vCenter=true&width=700&lines=Cyberpunk+%7C+Gamer+Pixel+%7C+Code+Runner;Eat+Sleep+Code+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=FF2CDF&center=true&vCenter=true&width=700&lines=Eat+Sleep+Code+Repeat" />
 </p>
 
 <hr/>
