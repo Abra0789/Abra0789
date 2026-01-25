@@ -59,6 +59,16 @@
 
 <!-- ================= STATS ================= -->
 ## ⚡ GitHub Stats ⚡
+## 📊 GitHub Stats ⚡
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=F7D046" />
+</p>
+
+<hr/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abra0789
