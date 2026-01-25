@@ -21,6 +21,10 @@
 A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
 **Web Development and Machine Learning**.
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,django,keras,tensorflow,pytorch,git,github,vscode,linux,colab,arduino&theme=dark" height="26" />
+</p>
+
 ### Tech Stack
 - **Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Django, Bootstrap
