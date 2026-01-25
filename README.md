@@ -34,7 +34,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 
 > 💡 _“Every commit is XP. Every bug is a boss fight.”_
-<img align="right" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 ### ⚙️ Tech Stack
 <div>
