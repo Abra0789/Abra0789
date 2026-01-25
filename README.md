@@ -22,7 +22,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 **Web Development and Machine Learning**.
 
 ### Tech Stack
-- **Languages:** C, C++, Java, Python, SQL, HTML, CSS
+- **Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Django, Bootstrap
 - **Tools:** GitHub, VS Code, PyCharm, Arduino, Google Colab
 - **Operating Systems:** Windows, Linux
@@ -38,10 +38,10 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 ### 📌 Current Focus
 -  Web Development & Full-Stack Projects
 -  Enjoy solving problems and exploring emerging technologies
-- 🎮 **Playstyle:** Hardcore Learner, Fast Adapter
-- 🐣 **Fun Fact:** Started as a noob — grinding to become a boss
+
 
 > 💡 _“Every commit is XP. Every bug is a boss fight.”_
+
 
 <hr/>
 
