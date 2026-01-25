@@ -92,3 +92,56 @@
 <p align="center">
   <b style="color:#58A6FF;">⚡ Code • Learn • Improve ⚡</b>
 </p>
+
+
+
+<svg width="1200" height="520" viewBox="0 0 1200 520"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700&display=swap');
+    text { font-family: 'Barlow', sans-serif; }
+  </style>
+
+  <rect width="1200" height="520" rx="20" fill="#0D1117"/>
+
+  <text x="30" y="42" fill="#00FFF7" font-size="28" font-weight="700">
+    ⚡ ABRAR GALIB — ULTRA CYBERPUNK HUD
+  </text>
+  <line x1="30" y1="55" x2="1170" y2="55" stroke="#FF2CDF" stroke-width="3"/>
+
+  <rect x="30" y="80" width="300" height="200" rx="14" fill="#161B22"/>
+  <text x="45" y="110" fill="#FFD700" font-size="18" font-weight="600">PLAYER PROFILE</text>
+  <text x="45" y="145" fill="#EAEAEA">Handle:</text>
+  <text x="150" y="145" fill="#00FFF7">@abra0789</text>
+  <text x="45" y="170" fill="#EAEAEA">Class:</text>
+  <text x="150" y="170" fill="#FF2CDF">Code Runner</text>
+  <text x="45" y="195" fill="#EAEAEA">Faction:</text>
+  <text x="150" y="195" fill="#FFD700">Cyber Guild</text>
+  <text x="45" y="220" fill="#EAEAEA">Status:</text>
+  <text x="150" y="220" fill="#00FF7F">ONLINE</text>
+
+  <rect x="350" y="80" width="380" height="200" rx="14" fill="#161B22"/>
+  <text x="365" y="110" fill="#FFD700" font-size="18" font-weight="600">CORE STATS</text>
+  <text x="365" y="145" fill="#EAEAEA">Commits</text>
+  <text x="640" y="145" fill="#00FFF7" font-weight="700">36</text>
+  <text x="365" y="170" fill="#EAEAEA">Pull Requests</text>
+  <text x="640" y="170" fill="#00FFF7" font-weight="700">16</text>
+  <text x="365" y="195" fill="#EAEAEA">Issues</text>
+  <text x="640" y="195" fill="#00FFF7" font-weight="700">0</text>
+  <text x="365" y="220" fill="#EAEAEA">Repos</text>
+  <text x="640" y="220" fill="#00FFF7" font-weight="700">1</text>
+
+  <rect x="760" y="80" width="410" height="200" rx="14" fill="#161B22"/>
+  <text x="775" y="110" fill="#FFD700" font-size="18" font-weight="600">LEVEL SYSTEM</text>
+  <text x="775" y="145" fill="#EAEAEA">Level</text>
+  <text x="1100" y="145" fill="#FF2CDF" font-size="22" font-weight="700">7</text>
+  <rect x="775" y="165" width="350" height="16" rx="8" fill="#0D1117"/>
+  <rect x="775" y="165" width="240" height="16" rx="8" fill="#00FFF7"/>
+  <text x="775" y="195" fill="#6E7681">XP Progress • 65%</text>
+
+  <text x="30" y="505" fill="#6E7681" font-size="13">
+    🎮 ULTRA HUD • CYBERPUNK MODE
+  </text>
+</svg>
+
