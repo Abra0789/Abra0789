@@ -35,11 +35,15 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 > 💡 _“Every commit is XP. Every bug is a boss fight.”_
 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" style="border-radius:20px;" />
+</p>
+
 ### ⚙️ Tech Stack
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql&theme=dark" height="30"/>
   <br/>
   <span style="color:#FFD700; font-weight:bold;">C</span> • 
@@ -102,9 +106,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= PLAYER STATS ================= -->
 ## 📊 PLAYER STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" style="border-radius:20px;" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" style="border-radius:20px;" />
