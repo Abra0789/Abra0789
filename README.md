@@ -82,60 +82,41 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 
-<hr/>
 
 ## 🧪 SKILL INVENTORY
 
-### ⚡ Programming Languages
+### ⚡ Programming Languages & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,sql&theme=dark" height="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql&theme=dark" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <b>C</b> • <b>C++</b> • <b>Python</b> • <b>JavaScript</b> • <b>MySQL</b>
 </p>
 
+### 🌐 Web Development & Frameworks
 <p align="center">
-  <b>C:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
-  <b>C++:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
-  <b>Python:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
-  <b>Java:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
-  <b>SQL:</b> ▓▓▓▓▓▓▓░░░ 75%
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>Django</b>
 </p>
 
-### 🌐 Web Development
+### 🤖 Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,bootstrap&theme=dark" height="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <b>Machine Learning</b> • <b>Python Libraries</b>
 </p>
 
+### 💻 Tools & Platforms
 <p align="center">
-  <b>HTML:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
-  <b>CSS:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
-  <b>JavaScript:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
-  <b>React:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
-  <b>Django:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp;
-  <b>Bootstrap:</b> ▓▓▓▓▓▓▓▓░░ 80%
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <b>Git/GitHub</b> • <b>VS Code</b> • <b>Linux</b> • <b>Google Colab</b> • <b>Arduino</b>
 </p>
 
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,colab&theme=dark" height="50" style="margin:5px;" />
-</p>
-
-<p align="center">
-  <b>Git/GitHub:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
-  <b>VS Code:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
-  <b>Linux:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
-  <b>Arduino:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
-  <b>Google Colab:</b> ▓▓▓▓▓▓▓▓░░ 80%
-</p>
-
-### 🔥 Currently Leveling Up
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,react&theme=dark" height="50" style="margin:5px;" />
-</p>
-
-<p align="center">
-  <b>MERN Stack:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
-  <b>APIs & REST:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
-  <b>CI/CD:</b> ▓▓▓▓▓▓░░░░ 60%
-</p>
 
 
 <!-- ================= PLAYER STATS ================= -->
