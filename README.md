@@ -76,7 +76,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <div style="flex:1; line-height:2;">
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Languages</span>
-<p align="left">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">C</span> • 
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">C++</span> • 
@@ -85,7 +85,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 </p>
 
 ### 🌐 <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Web Tech</span>
-<p align="left">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">HTML</span> • 
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">CSS</span> • 
@@ -94,14 +94,14 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 </p>
 
 ### 🤖 <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Machine Learning</span>
-<p align="left">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Machine Learning</span> • 
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Python Libraries</span>
 </p>
 
 ### 🛠️ <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Tools</span>
-<p align="left">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Git/GitHub</span> • 
   <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">VS Code</span> • 
