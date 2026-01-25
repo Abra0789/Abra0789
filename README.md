@@ -101,7 +101,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%; flex-wrap:nowrap;">
+<div style="display:flex; justify-content:space-between; width:100%; flex-wrap:nowrap;">
 
   <!-- LEFT -->
   <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA"
