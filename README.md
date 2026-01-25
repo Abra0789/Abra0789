@@ -22,15 +22,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 **Web Development and Machine Learning**.
 
 ### ⚙️ Tech Stack
-
-
-### Tech Stack
-
-## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
-
-<div style="display:flex; align-items:flex-start; justify-content:space-between;">
-
-<!-- LEFT SIDE SKILLS -->
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
@@ -108,68 +99,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
     <img src="https://img.shields.io/badge/INSTAGRAM-FF2CDF?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px;"/>
   </a>
 </p>
-
-<hr/>
-
-<!-- ================= SKILLS ================= -->
-
-## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
-
-<div style="display:flex; align-items:flex-start; justify-content:space-between;">
-
-<!-- LEFT SIDE SKILLS -->
-<div>
-
-### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql&theme=dark" height="45"/>
-  <br/>
-  <span style="color:#FFD700; font-weight:bold;">C</span> • 
-  <span style="color:#FFD700; font-weight:bold;">C++</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Python</span> • 
-  <span style="color:#FFD700; font-weight:bold;">JavaScript</span> • 
-  <span style="color:#FFD700; font-weight:bold;">MySQL</span>
-</p>
-
-### 🌐 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Web Technologies</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="45"/>
-  <br/>
-  <span style="color:#FFD700; font-weight:bold;">HTML</span> • 
-  <span style="color:#FFD700; font-weight:bold;">CSS</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Bootstrap</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Django</span>
-</p>
-
-### 🤖 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Machine Learning</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="45"/>
-  <br/>
-  <span style="color:#FFD700; font-weight:bold;">Machine Learning</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Data Analysis</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Model Training</span>
-</p>
-
-### 🛠️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Tools</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab&theme=dark" height="45"/>
-  <br/>
-  <span style="color:#FFD700; font-weight:bold;">Git & GitHub</span> • 
-  <span style="color:#FFD700; font-weight:bold;">VS Code</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Linux</span> • 
-  <span style="color:#FFD700; font-weight:bold;">Google Colab</span>
-</p>
-
-</div>
-
-<!-- RIGHT SIDE GIF -->
-<div style="margin-left:30px;">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"
-       width="130"
-       style="border-radius:15px; box-shadow:0 0 15px #FFD700;" />
-</div>
-
-</div>
 
 <hr/>
 
