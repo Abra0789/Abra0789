@@ -1,82 +1,94 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://cutewallpaper.org/26/best-gif-action-wallpaper/pin-by-michaela-colyer-on-gif-cool-pixel-art-pixel-art-background-anime-pixel-art.gif" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello,+%3CCoders%2F%3E!;I'm+Abrar+Galib;Welcome+to+my+GitHub" />
-</h1>
+<h2 align="center" style="color:#58A6FF;">
+  Hello, &lt;Coder/&gt;!
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=F7D046&center=true&vCenter=true&width=600&lines=Programming+%7C+Learning+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" />
 </p>
 
+<hr/>
+
+<!-- ================= ABOUT ME ================= -->
+## 🧑‍💻 About Me :
+<img align="right" width="300" src="https://i.imgflip.com/4/4t0m5.jpg" />
+
+- 🚀 I’m currently working on my **programming skills**
+- 🔍 I’m looking to collaborate on **C, Python projects**
+- 🌱 I’m currently learning **DSA & Problem Solving**
+- 🧠 Ask me about **C Programming & Basics**
+- ⚡ Fun Fact: *But deep inside I’m still a beginner*
+
 ---
 
-## 🧑‍💻 <span style="color:#00F7FF">About Me</span> ✨
-<img align="right" width="280" src="https://i.imgflip.com/4/4t0m5.jpg" />
-
-- 🔥 **Currently working on:** Programming fundamentals  
-- 🧠 **Interested in:** `C`, `Python`, `Web Development`  
-- 📘 **Learning:** Data Structures & Algorithms  
-- 🚀 **Goal:** Become a skilled Software Engineer  
-- 😅 **Fun fact:** *I have no idea what I’m doing… but I’m learning fast*
-
----
-
-## 🌐 <span style="color:#F72585">Let’s Connect & Chat</span> 💬
+<!-- ================= CONNECT ================= -->
+## 🌐 Let’s Connect and have a Chat !
 <p align="left">
   <a href="https://github.com/abra0789">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/ag.saad.9">
-    <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
----
+<hr/>
 
-## 🛠️ <span style="color:#4CC9F0">Languages & Tools</span> ⚙️
+<!-- ================= SKILLS ================= -->
+## 🛠️ LANGUAGES AND TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
 </p>
 
----
-
-## 📊 <span style="color:#FFD166">GitHub Stats</span> ⚡
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=F72585&text_color=EAEAEA" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+</p>
+
+<img align="left" width="260" src="https://i.imgflip.com/7zj2d8.jpg" />
+
+<br/><br/><br/><br/><br/><br/>
+
+<hr/>
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats ⚡
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=F7D046" />
 </p>
 
----
+<hr/>
 
-## 🔥 <span style="color:#F72585">GitHub Streak</span>
+<!-- ================= STREAK ================= -->
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00F7FF&fire=F72585" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=58A6FF&fire=F7D046" />
 </p>
 
----
+<hr/>
 
-## 📈 <span style="color:#4CC9F0">Contribution Graph</span>
+<!-- ================= GRAPH ================= -->
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=tokyo-night" />
 </p>
 
----
+<hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abra0789&style=flat-square&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=abra0789&label=Profile+Views&color=58A6FF&style=flat-square" />
 </p>
 
 <p align="center">
-  <b>⚡ <span style="color:#F72585">Code</span> • 
-  <span style="color:#FFD166">Learn</span> • 
-  <span style="color:#4CC9F0">Repeat</span> ⚡</b>
+  <b style="color:#58A6FF;">⚡ Code • Learn • Improve ⚡</b>
 </p>
