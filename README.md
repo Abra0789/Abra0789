@@ -9,18 +9,17 @@
 </h1>
 
 <p align="center">
-  <img src="" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=FF2CDF&center=true&vCenter=true&width=700&lines=Cyberpunk+%7C+Gamer+Pixel+%7C+Code+Runner;Eat+Sleep+Code+Repeat" />
 </p>
 
 <hr/>
 
 <!-- ================= ABOUT ================= -->
-## 🕹️ ABOUT ME
+## ABOUT ME
 <img align="right" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
 
-- ⚡ **Leveling up in Programming & Problem Solving**
-- 🧠 **Core Stack:** `C` • `C++` • `Python` • `Web`
-- 🎯 **Current Quest:** Master DSA & Competitive Programming
+- ⚡ **Leveling up in Programming **
+- 🧠 **Core Stack:** `C` • `C++` • `Python` • `Html` • `Css` • `Bootstrap` • `JavaScript`
 - 🎮 **Playstyle:** Hardcore Learner, Fast Adapter
 - 🐣 **Fun Fact:** Started as a noob — grinding to become a boss
 
@@ -29,7 +28,7 @@
 <hr/>
 
 <!-- ================= CONNECT ================= -->
-## 🌐 JACK IN WITH ME
+## JACK IN WITH ME
 <p align="left">
   <a href="https://github.com/abra0789">
     <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" style="border-radius:10px;"/>
