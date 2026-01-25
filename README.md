@@ -65,48 +65,28 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <hr/>
 
-<table width="100%">
-<tr>
+<!-- Left side GIF -->
+<p align="left">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="150" style="border-radius:15px; margin-right:20px;" />
+</p>
 
-<!-- LEFT SIDE GIF -->
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="200" style="border-radius:15px;" />
-</td>
+## 🧪 <span style="color:#FFD700">SKILL INVENTORY</span>
 
-<!-- RIGHT SIDE SKILLS -->
-<td width="60%" valign="top">
-
-## 🧪 SKILL INVENTORY
-
-### ⚙️ Languages
+### ⚙️ <span style="color:#FFD700">Languages</span>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <b>C</b> • <b>C++</b> • <b>Python</b> • <b>JavaScript</b>
+  <span style="color:#FFD700"><b>C</b></span> • <span style="color:#FFD700"><b>C++</b></span> • <span style="color:#FFD700"><b>Python</b></span> • <span style="color:#FFD700"><b>JavaScript</b></span>
 </p>
 
-### 🌐 Web Tech
+### 🌐 <span style="color:#FFD700">Web Tech</span>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>Django</b>
+  <span style="color:#FFD700"><b>HTML</b></span> • <span style="color:#FFD700"><b>CSS</b></span> • <span style="color:#FFD700"><b>Bootstrap</b></span> • <span style="color:#FFD700"><b>Django</b></span>
 </p>
 
-### 🤖 Machine Learning
+### 🤖 <span style="color:#FFD700">Machine Learning</span>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <b>Machine Learning</b> • <b>Python Libraries</b>
-</p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <b>Git/GitHub</b> • <b>VS Code</b> • <b>Linux</b> • <b>Google Colab</b> • <b>Arduino</b>
-</p>
-
-</td>
-</tr>
-</table>
-
-<hr/>
+  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="40" style="vertical-align:middle;
 
 
 
