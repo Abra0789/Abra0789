@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME+TO+THE+CYBER+ZONE;ABRAR+GALIB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME; Hi,👋 I'm ABRAR+GALIB" />
 </h1>
 
 <p align="center">
@@ -18,8 +18,26 @@
 ## ABOUT ME
 <img align="right" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
 
-- ⚡ **Leveling up in Programming **
-- 🧠 **Core Stack:** `C` • `C++` • `Python` • `Html` • `Css` • `Bootstrap` • `JavaScript`
+A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
+**Web Development and Machine Learning**.
+
+### Tech Stack
+- **Languages:** C, C++, Java, Python, SQL, HTML, CSS
+- **Frameworks:** Django, Bootstrap
+- **Tools:** GitHub, VS Code, PyCharm, Arduino, Google Colab
+- **Operating Systems:** Windows, Linux
+
+
+### 🏆 Highlights
+- 🎓 B.Sc. in CSE from **University of Asia Pacific** (CGPA 3.30/4.00)
+- 👑 Former **President, Robotics Club (CSE-UAP)**
+- 🏅 Recognized in Programming Contests, CTFs, and Robotics Idea Competitions
+- 📚 Currently pursuing **MERN Stack Development** at **Creative IT**
+
+
+### 📌 Current Focus
+-  Web Development & Full-Stack Projects
+-  Enjoy solving problems and exploring emerging technologies
 - 🎮 **Playstyle:** Hardcore Learner, Fast Adapter
 - 🐣 **Fun Fact:** Started as a noob — grinding to become a boss
 
