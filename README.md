@@ -63,31 +63,57 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= SKILLS ================= -->
 
+## 🧪 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">SKILL INVENTORY</span>
+
+<div style="display:flex; align-items:flex-start;">
+
+<!-- LEFT GIF -->
+<div style="margin-right:30px;">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="140" style="border-radius:15px;"/>
+</div>
+
+<!-- RIGHT SKILLS -->
+<div style="flex:1; line-height:2;">
+
+### ⚙️ <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Languages</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">C</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">C++</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Python</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">JavaScript</span>
+</p>
+
+### 🌐 <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Web Tech</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">HTML</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">CSS</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Bootstrap</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Django</span>
+</p>
+
+### 🤖 <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Machine Learning</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Machine Learning</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Python Libraries</span>
+</p>
+
+### 🛠️ <span style="color:#FFD700; text-shadow:0 0 6px #FFD700;">Tools</span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="45" style="vertical-align:middle; margin-right:12px;" />
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Git/GitHub</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">VS Code</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Linux</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Google Colab</span> • 
+  <span style="color:#FFD700; font-weight:bold; text-shadow:0 0 4px #FFD700;">Arduino</span>
+</p>
+
+</div>
+</div>
+
 <hr/>
-
-<!-- Left side GIF -->
-<p align="left">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="150" style="border-radius:15px; margin-right:20px;" />
-</p>
-
-## 🧪 <span style="color:#FFD700">SKILL INVENTORY</span>
-
-### ⚙️ <span style="color:#FFD700">Languages</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <span style="color:#FFD700"><b>C</b></span> • <span style="color:#FFD700"><b>C++</b></span> • <span style="color:#FFD700"><b>Python</b></span> • <span style="color:#FFD700"><b>JavaScript</b></span>
-</p>
-
-### 🌐 <span style="color:#FFD700">Web Tech</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <span style="color:#FFD700"><b>HTML</b></span> • <span style="color:#FFD700"><b>CSS</b></span> • <span style="color:#FFD700"><b>Bootstrap</b></span> • <span style="color:#FFD700"><b>Django</b></span>
-</p>
-
-### 🤖 <span style="color:#FFD700">Machine Learning</span>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="40" style="vertical-align:middle;
-
 
 
 <!-- ================= PLAYER STATS ================= -->
