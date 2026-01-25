@@ -63,22 +63,11 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= SKILLS ================= -->
 
-## 🧪 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">SKILL INVENTORY</span>
-
-<hr/>
-
 ## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
 
-<div style="display:flex; align-items:flex-start;">
+<div style="display:flex; align-items:flex-start; justify-content:space-between;">
 
-<!-- Right SIDE GIF -->
-<div style="margin-right:25px; align-items:flex-end">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"
-       width="130"
-       style="border-radius:15px; box-shadow:0 0 15px #FFD700;" />
-</div>
-
-<!-- RIGHT SIDE SKILLS -->
+<!-- LEFT SIDE SKILLS -->
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
@@ -122,6 +111,14 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 </p>
 
 </div>
+
+<!-- RIGHT SIDE GIF -->
+<div style="margin-left:30px;">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"
+       width="130"
+       style="border-radius:15px; box-shadow:0 0 15px #FFD700;" />
+</div>
+
 </div>
 
 <hr/>
