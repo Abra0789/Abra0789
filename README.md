@@ -21,10 +21,6 @@
 A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
 **Web Development and Machine Learning**.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,django,keras,tensorflow,pytorch,git,github,vscode,linux,colab,arduino&theme=dark" height="26" />
-</p>
-
 ### Tech Stack
 - **Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Django, Bootstrap
@@ -73,9 +69,9 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 ## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
 
-<div style="display:flex; align-items:flex-start;">
+<div style="display:flex; align-items:flex-end;">
 
-<!-- LEFT SIDE GIF -->
+<!-- Right SIDE GIF -->
 <div style="margin-right:25px;">
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"
        width="130"
