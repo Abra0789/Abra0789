@@ -27,6 +27,33 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 - **Tools:** GitHub, VS Code, PyCharm, Arduino, Google Colab
 - **Operating Systems:** Windows, Linux
 
+  <hr/>
+
+## 📊 PLAYER STATS & TECH STACK
+
+<p align="center">
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" 
+       style="border-radius:20px; height:120px; margin-right:10px;" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" 
+       style="border-radius:20px; height:120px;" />
+</p>
+
+<p align="center">
+  💻 <strong>Languages:</strong> C • C++ • Python • JavaScript • MySQL<br/>
+  🌐 <strong>Web:</strong> HTML • CSS • Bootstrap • Django<br/>
+  🤖 <strong>Machine Learning:</strong> ML • Data Analysis • Model Training<br/>
+  🛠️ <strong>Tools:</strong> Git & GitHub • VS Code • Linux • Google Colab
+</p>
+
+<p align="center">
+  My GitHub contributions, favorite languages, and tech stack at a glance.
+</p>
+
+<hr/>
+
 
 ### 🏆 Highlights
 - 🎓 B.Sc. in CSE from **University of Asia Pacific** (CGPA 3.30/4.00)
