@@ -81,6 +81,63 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <hr/>
 
+
+<hr/>
+
+## 🧪 SKILL INVENTORY
+
+### ⚡ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,sql&theme=dark" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <b>C:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
+  <b>C++:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
+  <b>Python:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
+  <b>Java:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
+  <b>SQL:</b> ▓▓▓▓▓▓▓░░░ 75%
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,bootstrap&theme=dark" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <b>HTML:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
+  <b>CSS:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
+  <b>JavaScript:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
+  <b>React:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
+  <b>Django:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp;
+  <b>Bootstrap:</b> ▓▓▓▓▓▓▓▓░░ 80%
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,colab&theme=dark" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <b>Git/GitHub:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
+  <b>VS Code:</b> ▓▓▓▓▓▓▓▓▓░ 90% &nbsp;&nbsp; 
+  <b>Linux:</b> ▓▓▓▓▓▓▓▓░░ 80% &nbsp;&nbsp; 
+  <b>Arduino:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
+  <b>Google Colab:</b> ▓▓▓▓▓▓▓▓░░ 80%
+</p>
+
+### 🔥 Currently Leveling Up
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,react&theme=dark" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <b>MERN Stack:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
+  <b>APIs & REST:</b> ▓▓▓▓▓▓▓░░░ 70% &nbsp;&nbsp; 
+  <b>CI/CD:</b> ▓▓▓▓▓▓░░░░ 60%
+</p>
+
+
 <!-- ================= PLAYER STATS ================= -->
 ## 📊 PLAYER STATS
 <p align="center">
