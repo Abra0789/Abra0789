@@ -101,19 +101,31 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
-## 📊 PLAYER STATS
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" style="border-radius:20px;" />
+## 🎮 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">PLAYER STATS</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=00FFF7&text_color=EAEAEA"
+       height="185"
+       style="border-radius:20px; box-shadow:0 0 18px #FFD700;" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700"
+       height="185"
+       style="border-radius:20px; box-shadow:0 0 18px #FFD700;" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" style="border-radius:20px;" />
+<p align="center">
+  <span style="color:#FFD700; letter-spacing:3px; font-size:13px;">
+    ── SYSTEM STATUS: ONLINE ──
+  </span>
 </p>
 
 <hr/>
 
+
 <!-- ================= STREAK ================= -->
-## 🔥 COMBO STREAK
+## COMBO STREAK
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" style="border-radius:20px;" />
 </p>
