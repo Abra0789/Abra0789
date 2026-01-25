@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK PIXEL HEADER ================= -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" 
-       style="border-radius:20px;" />
+       style="border-radius:30px;" />
 </p>
 
 <h1 align="center">
@@ -16,7 +16,7 @@
 
 <!-- ================= ABOUT ================= -->
 ## ABOUT ME
-<img align="right" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
+<img align="right" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="border-radius:20px;" />
 
 - ⚡ **Leveling up in Programming **
 - 🧠 **Core Stack:** `C` • `C++` • `Python` • `Html` • `Css` • `Bootstrap` • `JavaScript`
