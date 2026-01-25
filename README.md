@@ -69,10 +69,10 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 ## 🧪 <span style="color:#FFD700; text-shadow:0 0 10px #FFD700;">SKILL INVENTORY</span>
 
-<div style="display:flex; align-items:flex-end;">
+<div style="display:flex; align-items:flex-start;">
 
 <!-- Right SIDE GIF -->
-<div style="margin-right:25px;">
+<div style="margin-right:25px; align-items:flex-end">
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"
        width="130"
        style="border-radius:15px; box-shadow:0 0 15px #FFD700;" />
