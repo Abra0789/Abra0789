@@ -63,41 +63,51 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= SKILLS ================= -->
 
+<hr/>
+
+<table width="100%">
+<tr>
+
+<!-- LEFT SIDE GIF -->
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="200" style="border-radius:15px;" />
+</td>
+
+<!-- RIGHT SIDE SKILLS -->
+<td width="60%" valign="top">
+
 ## 🧪 SKILL INVENTORY
 
-### ⚡ Programming Languages & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql&theme=dark" height="50" style="margin:10px;" />
-</p>
-<p align="center">
-  <b>C</b> • <b>C++</b> • <b>Python</b> • <b>JavaScript</b> • <b>MySQL</b>
+### ⚙️ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
+  <b>C</b> • <b>C++</b> • <b>Python</b> • <b>JavaScript</b>
 </p>
 
-### 🌐 Web Development & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="50" style="margin:10px;" />
-</p>
-<p align="center">
+### 🌐 Web Tech
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
   <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>Django</b>
 </p>
 
-### 🤖 Machine Learning & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="50" style="margin:10px;" />
-</p>
-<p align="center">
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,keras,tensorflow,pytorch&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
   <b>Machine Learning</b> • <b>Python Libraries</b>
 </p>
 
-### 💻 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="50" style="margin:10px;" />
-</p>
-<p align="center">
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,colab,arduino&theme=dark" height="40" style="vertical-align:middle; margin-right:10px;" />
   <b>Git/GitHub</b> • <b>VS Code</b> • <b>Linux</b> • <b>Google Colab</b> • <b>Arduino</b>
 </p>
 
-</hr>
+</td>
+</tr>
+</table>
+
+<hr/>
+
 
 
 <!-- ================= PLAYER STATS ================= -->
