@@ -21,6 +21,35 @@
 A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
 **Web Development and Machine Learning**.
 
+### ⚙️ Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <a href="#" title="C"><img src="https://skillicons.dev/icons?i=c" height="40" style="margin:5px"/></a>
+  <a href="#" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin:5px"/></a>
+  <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java" height="40" style="margin:5px"/></a>
+  <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" style="margin:5px"/></a>
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" style="margin:5px"/></a>
+  <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" height="40" style="margin:5px"/></a>
+  <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" height="40" style="margin:5px"/></a>
+  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin:5px"/></a>
+
+  <!-- Frameworks -->
+  <a href="#" title="Django"><img src="https://skillicons.dev/icons?i=django" height="40" style="margin:5px"/></a>
+  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin:5px"/></a>
+
+  <!-- Tools -->
+  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin:5px"/></a>
+  <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin:5px"/></a>
+  <a href="#" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm" height="40" style="margin:5px"/></a>
+  <a href="#" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="40" style="margin:5px"/></a>
+  <a href="#" title="Google Colab"><img src="https://skillicons.dev/icons?i=googlecolab" height="40" style="margin:5px"/></a>
+
+  <!-- Operating Systems -->
+  <a href="#" title="Windows"><img src="https://skillicons.dev/icons?i=windows" height="40" style="margin:5px"/></a>
+  <a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="40" style="margin:5px"/></a>
+</p>
+
 ### Tech Stack
 - **Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Django, Bootstrap
