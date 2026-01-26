@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME+to+my+Github+Profile;I'M+ABRAR+GALIB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=HELLO+%3C+CODER+%2F+%3E;WELCOME+to+my+GitHub+Profile;I'M+ABRAR+GALIB" />
 </h1>
 
 <p align="center">
@@ -102,32 +102,17 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= PLAYER STATS ================= -->
 <h1>GitHub Stats ⚡</h1>
-
 <p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=abra0789&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&line_height=20"
-    alt="GitHub Stats" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA"
+       style="margin-right:2%;" />
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
-    alt="Top Languages" />
+  <img width="38%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700"
+       style="margin-left:2%;" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=react-dark&hide_border=true"
-    alt="Activity Graph" />
-</p>
+<hr/>
 
 <!-- ================= STREAK ================= -->
 ## 🔥 COMBO STREAK
