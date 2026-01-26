@@ -101,12 +101,33 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
+<h1>GitHub Stats ⚡</h1>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=abra0789&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&line_height=20"
+    alt="GitHub Stats" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
+    alt="Top Languages" />
 </p>
 
-<hr/>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abra0789&theme=react-dark&hide_border=true"
+    alt="Activity Graph" />
+</p>
 
 <!-- ================= STREAK ================= -->
 ## 🔥 COMBO STREAK
