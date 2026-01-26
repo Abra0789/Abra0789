@@ -101,12 +101,12 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td align="left" style="border:none;" width="50%">
+    <td align="left" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
     </td>
-    <td align="right" style="border:none;" width="50%">
+    <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
     </td>
   </tr>
