@@ -103,8 +103,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <!-- ================= PLAYER STATS ================= -->
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA"
-       style="margin-right:2%;" />
+       src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
 
   <img width="35%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
