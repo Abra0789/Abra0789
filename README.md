@@ -107,8 +107,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
        style="margin-right:2%;" />
 
   <img width="35%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700"
-       style="margin-left:2%;" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
 </p>
 
 <hr/>
