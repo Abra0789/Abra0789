@@ -91,6 +91,9 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
   <hr/>
 
 
+  <img align="right" width="220" src="https://cdn.dribbble.com/userupload/21857368/file/original-fb01218b7fa959e79d41c77900be4123.gif" />
+
+
 <!-- ================= CONNECT ================= -->
 ## JACK IN WITH ME
 <p align="left">
