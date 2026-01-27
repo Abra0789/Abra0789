@@ -115,11 +115,16 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= STREAK ================= -->
 ## 🔥 COMBO STREAK
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF" style="border-radius:20px;" />
+  <img 
+    src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&ring=00FFF7&fire=FF2CDF&currStreakLabel=00FFF7&hide_border=true"
+    style="border-radius:20px;"
+  />
 </p>
 
 <hr/>
+
 
 <!-- ================= XP GRAPH ================= -->
 ## 📈 XP PROGRESSION
