@@ -17,7 +17,7 @@
 
 <!-- ================= ABOUT ================= -->
 ## ABOUT ME
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" width="210" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 A passionate **CSE graduate** and aspiring **Software Developer** with strong interests in
 **Web Development and Machine Learning**.
