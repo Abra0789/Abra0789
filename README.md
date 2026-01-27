@@ -35,7 +35,13 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 > 💡 _“Every commit is XP. Every bug is a boss fight.”_
 
-### ⚙️ Tech Stack
+<!--Tech stack: start-->
+
+<img src="img/tech_stack.png">
+
+<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
+
+<!--Tech stack: end-->
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
