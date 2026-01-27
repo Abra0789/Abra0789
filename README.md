@@ -37,7 +37,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!--Tech stack: start-->
 
-<img src="tech_stack.png">
+<img src="img/tech_stack.png">
 
 <!--Tech stack: end-->
 <div>
