@@ -41,6 +41,20 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <img src="img/tech_stack.png">
 
 <!--Tech stack: end-->
+
+
+<!-- ================= ULTRA HUD ================= -->
+
+<p align="center">
+  <!-- TOP NEON PULSE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00FFF7,50:FF2CDF,100:00FFF7" />
+</p>
+
+
+<!-- ================= END HUD ================= -->
+
+
+
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
