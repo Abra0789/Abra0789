@@ -14,6 +14,13 @@
 
 <hr/>
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=1&duration=1200&pause=200&color=00FFF7&width=600&lines=+" />
+</p>
+
+
 <!-- ================= ABOUT ================= -->
 ## ABOUT ME
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
