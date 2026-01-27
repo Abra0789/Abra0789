@@ -43,18 +43,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <!--Tech stack: end-->
 
 
-<!-- ================= ULTRA HUD ================= -->
-
-<p align="center">
-  <!-- TOP NEON PULSE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00FFF7,50:FF2CDF,100:00FFF7" />
-</p>
-
-
-<!-- ================= END HUD ================= -->
-
-
-
 <div>
 
 ### ⚙️ <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Languages</span>
@@ -123,7 +111,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <h1>GitHub Stats ⚡</h1>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
 </p>
 
 <hr/>
@@ -139,18 +127,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 </p>
  
 </hr>
-
-<!-- ================= ULTRA HUD ================= -->
-
-<p align="center">
-  <!-- TOP NEON PULSE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00FFF7,50:FF2CDF,100:00FFF7" />
-</p>
-
-
-<!-- ================= END HUD ================= -->
-
-
 
 <!-- ================= XP GRAPH ================= -->
 ## 📈 XP PROGRESSION
@@ -177,3 +153,14 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
   <span style="color:#FFD700">PLAY</span> • 
   <span style="color:#FF2CDF">CODE</span> 🎮</b>
 </p>
+
+
+<!-- ================= ULTRA HUD ================= -->
+
+<p align="center">
+  <!-- TOP NEON PULSE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00FFF7,50:FF2CDF,100:00FFF7" />
+</p>
+
+
+<!-- ================= END HUD ================= -->
