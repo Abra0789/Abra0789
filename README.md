@@ -66,6 +66,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
   <span style="color:#FFD700; font-weight:bold;">Django</span>
 </p>
 
+
 ### 🤖 <span style="color:#FFD700; text-shadow:0 0 8px #FFD700;">Machine Learning</span>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="30"/>
@@ -87,8 +88,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 </div>
 
-
-  <img align="right" width="220" src="https://cdn.dribbble.com/userupload/21857368/file/original-fb01218b7fa959e79d41c77900be4123.gif" />
 
   <hr/>
 
