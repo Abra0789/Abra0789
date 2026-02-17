@@ -125,36 +125,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 
 
-<!-- ================= CYBERPUNK GITHUB STATS ================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=35&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=⚡+CYBERPUNK+GITHUB+STATS+⚡;SYSTEM+ONLINE+%F0%9F%9A%80;LEVEL+UP+MODE+ACTIVATED" />
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" />
-</p>
-
-<div align="center">
-
-<img width="49%" 
-     src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA&border_radius=20&bg_color=0D1117&cache_seconds=1800" />
-
-<img width="41%" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700&text_color=EAEAEA&border_radius=20&bg_color=0D1117&cache_seconds=1800" />
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abra0789&theme=tokyonight&border_radius=20&background=0D1117&ring=FF2CDF&fire=00FFF7&currStreakLabel=FFD700" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</p>
-
-<!-- ================= END ================= -->
-
 
 
 <!-- ================= STREAK ================= -->
