@@ -117,24 +117,12 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <!-- ================= PLAYER STATS ================= -->
 <h1>GitHub Stats ⚡</h1>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
 </p>
 
 <hr/>
 
-
-<h1 align="center">GitHub Stats ⚡</h1>
-
-<p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA&cache_seconds=1800" />
-       
-  <img width="41%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700&cache_seconds=1800" />
-</p>
-
-<hr/>
 
 
 <!-- ================= STREAK ================= -->
