@@ -151,7 +151,23 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&hide_border=true&ring=00FFF7&fire=FF2CDF&currStreakLabel=00FFF7&sideNums=EAEAEA&dates=8B949E"
-    style="border-radius:20px;"
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/abra0789/abra0789/blob/gh-pages/github-contribution-grid-snake.svg" alt="snake animation" style="border-radius:20px;" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abra0789&style=flat-square&color=FF2CDF" />
+</p>
+
+<p align="center">
+  <b>🎮 <span style="color:#00FFF7">INSERT COIN</span> • 
+  <span style="color:#FFD700">PLAY</span> • 
+  <span style="color:#FF2CDF">CODE</span> 🎮</b>
+</p>    style="border-radius:20px;"
   />
 </p>
  
@@ -166,22 +182,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= SNAKE ================= -->
-## 🐍 CONTRIBUTION SNAKE
-<p align="center">
-  <img src="https://github.com/abra0789/abra0789/blob/output/github-contribution-grid-snake.svg" alt="snake animation" style="border-radius:20px;" />
-</p>
 
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abra0789&style=flat-square&color=FF2CDF" />
-</p>
-
-<p align="center">
-  <b>🎮 <span style="color:#00FFF7">INSERT COIN</span> • 
-  <span style="color:#FFD700">PLAY</span> • 
-  <span style="color:#FF2CDF">CODE</span> 🎮</b>
-</p>
 
 
 <!-- ================= ULTRA HUD ================= -->
