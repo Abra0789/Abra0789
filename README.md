@@ -115,6 +115,8 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <!-- ================= PLAYER STATS ================= -->
 <!-- ================= GITHUB STATS ================= -->
 
+<!-- ================= GITHUB STATS ================= -->
+
 <h1 align="center">GitHub Stats ⚡</h1>
 
 <p align="center">
@@ -128,14 +130,14 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abra0789&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abra0789&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abra0789&theme=tokyonight" />
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abra0789&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abra0789&theme=tokyonight&utcOffset=6" />
 
 </p>
 
