@@ -139,8 +139,6 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abra0789&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abra0789&theme=tokyonight&utcOffset=6" />
-
 </p>
 
 
