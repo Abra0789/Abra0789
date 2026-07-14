@@ -115,17 +115,17 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
-<h1>GitHub Stats ⚡</h1>
 <h1 align="center">GitHub Stats ⚡</h1>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="37%"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 
 
