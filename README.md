@@ -117,11 +117,14 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <!-- ================= PLAYER STATS ================= -->
 <h1>GitHub Stats ⚡</h1>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&title_color=00FFF7&icon_color=FF2CDF&text_color=EAEAEA" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&title_color=FFD700" />
-</p>
 
-<hr/>
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="37%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
 
@@ -129,7 +132,7 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 <!-- ================= STREAK ================= -->
 
-## 🔥 COMBO STREAK
+##  COMBO STREAK
 
 <p align="center">
   <img 
