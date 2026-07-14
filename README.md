@@ -115,15 +115,31 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= PLAYER STATS ================= -->
+<!-- ================= GITHUB STATS ================= -->
+
 <h1 align="center">GitHub Stats ⚡</h1>
 
 <p align="center">
 
-<img width="48%"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abra0789&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abra0789&theme=tokyonight" />
 
-<img width="37%"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abra0789&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abra0789&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abra0789&theme=tokyonight" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abra0789&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abra0789&theme=tokyonight&utcOffset=6" />
 
 </p>
 
