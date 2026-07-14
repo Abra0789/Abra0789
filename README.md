@@ -145,33 +145,16 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 
 
 <!-- ================= STREAK ================= -->
-
-##  COMBO STREAK
+## 🔥 GITHUB STREAK
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&hide_border=true&ring=00FFF7&fire=FF2CDF&currStreakLabel=00FFF7&sideNums=EAEAEA&dates=8B949E"
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/abra0789/abra0789/blob/gh-pages/github-contribution-grid-snake.svg" alt="snake animation" style="border-radius:20px;" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abra0789&style=flat-square&color=FF2CDF" />
-</p>
-
-<p align="center">
-  <b>🎮 <span style="color:#00FFF7">INSERT COIN</span> • 
-  <span style="color:#FFD700">PLAY</span> • 
-  <span style="color:#FF2CDF">CODE</span> 🎮</b>
-</p>    style="border-radius:20px;"
+    src="https://streak-stats.demolab.com?user=abra0789&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFF7&fire=FF2CDF&currStreakLabel=FFD700" 
+    alt="GitHub Streak"
   />
 </p>
- 
-</hr>
+
+
 
 <!-- ================= XP GRAPH ================= -->
 ## 📈 XP PROGRESSION
@@ -182,7 +165,41 @@ A passionate **CSE graduate** and aspiring **Software Developer** with strong in
 <hr/>
 
 <!-- ================= SNAKE ================= -->
+## 🐍 CONTRIBUTION SNAKE
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/abra0789/abra0789/gh-pages/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+  />
+</p>
+
+<br/>
+
+<hr/>
+
+<h3 align="center">
+  👁️ PROFILE VIEWS
+</h3>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=abra0789&style=for-the-badge&color=00FFF7" 
+    alt="Profile views"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">
+  🎮 INSERT COIN • PLAY • CODE 🎮
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-FF2CDF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-CODING-FFD700?style=for-the-badge" />
+</p>
 
 
 <!-- ================= ULTRA HUD ================= -->
